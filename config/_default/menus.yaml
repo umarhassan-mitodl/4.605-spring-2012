@@ -1,0 +1,29 @@
+leftnav:
+- identifier: 719ed8ac-0c67-de6b-20dc-02b9abb00e7d
+  name: Syllabus
+  pageRef: /pages/syllabus
+  weight: 10
+- identifier: 2e1f4499-bf19-aaca-b09f-2d2ca45a8a70
+  name: Readings
+  pageRef: /pages/readings
+  weight: 20
+- identifier: be89892c-4419-4266-dea9-7cf1c2884c08
+  name: Lecture Handouts
+  pageRef: /pages/lecture-handouts
+  weight: 30
+- identifier: 03dee42f-8da5-3cfa-06d5-f92ad19d2eab
+  name: Quizzes
+  pageRef: /pages/quizzes
+  weight: 40
+- identifier: b56a5202-2b39-c365-f166-39fc8aced8c5
+  name: Recitations
+  pageRef: /pages/recitations
+  weight: 50
+- identifier: 1b27d99c-1027-926c-68a8-79e5d8d989c3
+  name: Assignments
+  pageRef: /pages/assignments
+  weight: 60
+- identifier: 514261a2-e375-a18a-b526-c922e9e82338
+  name: Study Materials
+  pageRef: /pages/study-materials
+  weight: 70
