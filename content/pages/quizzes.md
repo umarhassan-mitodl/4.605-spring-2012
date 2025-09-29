@@ -3,6 +3,8 @@ content_type: page
 description: This section provides quizzes that were given at the start of many lectures.
   The table associates each quiz with the lecture it covers, rather than the lecture
   session in which it was given.
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Exams
 ocw_type: CourseSection

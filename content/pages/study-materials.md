@@ -1,6 +1,8 @@
 ---
 content_type: page
 description: This section presents study guides for the midterm and final exams.
+hide_download: true
+hide_download_original: null
 learning_resource_types: []
 ocw_type: CourseSection
 title: Study Materials

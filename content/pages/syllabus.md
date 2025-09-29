@@ -3,6 +3,8 @@ content_type: page
 description: This syllabus section provide a course overview and information on meeting
   times, prerequisites, textbook, use of Google Earth for the course, requirements
   and policies, grading, and the schedule of course topics, exams, and assignments.
+hide_download: true
+hide_download_original: null
 learning_resource_types: []
 ocw_type: CourseSection
 title: Syllabus
@@ -36,7 +38,7 @@ Ching, Francis, Mark Jarzombek, and Vikram Prakash. _A Global History of Archite
 Google Earth
 ------------
 
-{{% resource_link "0e76630a-00a3-43c6-8019-db30e36e805b" "Google Earth" %}} is an important resource for this course, and will be used during lectures. The textbook comes with many Google Earth .kmz files, and some assignments will also require its use.
+[Google Earth](http://www.google.com/earth/) is an important resource for this course, and will be used during lectures. The textbook comes with many Google Earth .kmz files, and some assignments will also require its use.
 
 Requirements and Policies
 -------------------------

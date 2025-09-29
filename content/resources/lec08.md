@@ -5,6 +5,8 @@ description: 'This is a supporting file of 800 BCE: Iron and the New World Order
 file: /courses/4-605-introduction-to-the-history-and-theory-of-architecture-spring-2012/5daf279e8c66af23f473b0648862af88_lec08.kmz
 file_size: 1857
 file_type: application/zip
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

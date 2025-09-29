@@ -5,6 +5,8 @@ description: 'This resource contains information regarding final exam study guid
 file: /courses/4-605-introduction-to-the-history-and-theory-of-architecture-spring-2012/ec34efec9bb267d3d67bb4bf3ed63749_MIT4_605S12_stdy_finl_txt.pdf
 file_size: 55936
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile

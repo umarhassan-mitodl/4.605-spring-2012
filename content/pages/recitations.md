@@ -1,6 +1,8 @@
 ---
 content_type: page
 description: This section provides recitation notes for selected discussion sections.
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Recitations
 ocw_type: CourseSection
@@ -77,7 +79,7 @@ In lieu of notes, students referred to an excerpt of Vitruvius' _De architectura
 
 Source: _Vitruvius Ten Books on Architecture_, trans. Ingrid D. Rowland. Cambridge University Press, 1999.
 
-(Note for OCW users, an {{% resource_link "03d04732-3424-4600-993c-84e4faeca7ab" "alternate translation by Morris Hicky Morgan" %}} (1914) is available online.)
+(Note for OCW users, an [alternate translation by Morris Hicky Morgan](http://en.wikisource.org/wiki/Ten_Books_on_Architecture) (1914) is available online.)
 
 
 {{< tdclose >}}

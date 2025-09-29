@@ -5,6 +5,8 @@ description: 'This is a supporting file of 1500 BCE: After the Cataclysm: Knosso
 file: /courses/4-605-introduction-to-the-history-and-theory-of-architecture-spring-2012/04724c083066275f23cbf99ce0b94a8c_lec07.kmz
 file_size: 1987
 file_type: application/zip
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
