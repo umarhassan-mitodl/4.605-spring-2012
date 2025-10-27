@@ -4,8 +4,6 @@ description: 'This is a supporting file of 500 BCE: Persia and Central Asia.'
 file: /courses/4-605-introduction-to-the-history-and-theory-of-architecture-spring-2012/fd05f2602bfa13cbc99356fca4c354e5_lec09a.kmz
 file_size: 1665
 file_type: application/zip
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
